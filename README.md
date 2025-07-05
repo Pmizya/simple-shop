@@ -13,6 +13,10 @@
 *   🌐 **Deployment**
 *   🚀 And Many More Cool Features
 
+### 🔗 Deployed Service:
+You can view the deployed web service at this link:
+**[simple-shop-b2el.onrender.com](https://simple-shop-b2el.onrender.com/)**
+
 ### 💻 How to run locally:
 1.  **Setup `.env` file**: Create a `.env` file in the project root and add:
     ```dotenv
