@@ -50,14 +50,6 @@ const CreatePage = () => {
                     >
                         Create New Product ✨
                     </Heading>
-                    <Text
-                        fontSize="lg"
-                        color="gray.600"
-                        _dark={{ color: "gray.300" }}
-                        fontFamily="'Inter', 'Segoe UI', system-ui, sans-serif"
-                    >
-                        Add a new product to your store
-                    </Text>
                 </Box>
 
                 <Box

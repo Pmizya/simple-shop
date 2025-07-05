@@ -51,7 +51,6 @@ const Navbar = () => {
                             }}
                             transition="all 0.2s"
                         >
-                            Add Product
                         </Button>
                     </Link>
                     <Button 

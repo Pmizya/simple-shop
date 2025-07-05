@@ -37,7 +37,6 @@ const HomePage = () => {
                         mx="auto"
                         fontFamily="'Inter', 'Segoe UI', system-ui, sans-serif"
                     >
-                        Discover our amazing collection of handpicked products
                     </Text>
                 </Box>
 
