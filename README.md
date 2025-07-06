@@ -1,4 +1,5 @@
-###Project Description: SIMPLE SHOP PROJECT
+###SIMPLE SHOP PROJECT
+Project Description: 
 This project is a full-stack web application designed to showcase the capabilities of the MERN stack, a popular technology ensemble for building modern web applications
 . It functions as a robust example of creating an e-commerce-like platform, encompassing both the backend API and a dynamic, responsive user interface.
 ### 🛠️ Tech Stack:
