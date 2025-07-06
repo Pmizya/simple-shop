@@ -1,5 +1,5 @@
-🛍️ Simple Shop Project
-📄 Project Overview
+### 🛍️ Simple Shop Project
+### 📄 Project Overview
 
 Simple Shop is a full-stack e-commerce-style web application built with the MERN stack. It demonstrates the power and flexibility of modern web technologies by offering a fully functional backend API, along with a clean, responsive user interface.
 ### 🛠️ Tech Stack:
